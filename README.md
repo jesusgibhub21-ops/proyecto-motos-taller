@@ -37,8 +37,9 @@ El taller gestionaba la información de manera manual, lo cual generaba desorgan
 2. Instalar dependencias: `composer install`
 3. Configurar el archivo `.env` con las credenciales de tu base de datos.
 4. Ejecutar migraciones: `php artisan migrate`
-5. Iniciar el servidor local: `php artisan serve`
-5. Iniciar el servidor en visual: `composer run dev`
+5. Ejecutar migraciones: `php artisan key generate`
+6. Iniciar el servidor local: `php artisan seve`
+7. Iniciar el servidor en visual: `composer run dev`
 
 ## Autor del proyecto
 Jesus Murillo

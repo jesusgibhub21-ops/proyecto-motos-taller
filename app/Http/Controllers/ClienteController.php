@@ -39,7 +39,7 @@ class ClienteController extends Controller
     }
 
     // VINCULACIÓN 5: Edit y Update
-    // Aquí es donde la magia ocurre: Laravel busca automáticamente al
+    // Laravel busca automáticamente al
     // cliente en la base de datos usando el ID que viene en la URL.
     public function edit(Cliente $cliente) 
     {
